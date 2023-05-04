@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/imbd-movie-app%20/static/css/main.ea75d7fe.css",
+    "main.js": "/imbd-movie-app%20/static/js/main.4bfa9a0f.js",
+    "static/js/787.7c42db31.chunk.js": "/imbd-movie-app%20/static/js/787.7c42db31.chunk.js",
+    "index.html": "/imbd-movie-app%20/index.html",
+    "main.ea75d7fe.css.map": "/imbd-movie-app%20/static/css/main.ea75d7fe.css.map",
+    "main.4bfa9a0f.js.map": "/imbd-movie-app%20/static/js/main.4bfa9a0f.js.map",
+    "787.7c42db31.chunk.js.map": "/imbd-movie-app%20/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea75d7fe.css",
+    "static/js/main.4bfa9a0f.js"
+  ]
+}
